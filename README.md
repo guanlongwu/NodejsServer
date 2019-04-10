@@ -48,7 +48,8 @@ nodejs使用这些依赖时，要用var xx = requires('xxx')去使用。
 四、启动Nodejs服务
 node /Users/wuguanlong/websocket/c3/server.js
 注意：
-这里node后面应该输入该文件的具体路径(最简单的方法就是用鼠标将该文件拖拽到终端中，即可获得server.js的总路径)
+这里node后面应该输入该文件的具体路径
+(最简单的方法就是用鼠标将该文件拖拽到终端中，即可获得server.js的总路径)
 
 
 
